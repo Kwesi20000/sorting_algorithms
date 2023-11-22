@@ -1,1 +1,1 @@
-ThiS IS Our sorting algorithm readme
+ThiS I Our sorting algorithm readme
