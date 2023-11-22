@@ -1,1 +1,1 @@
-This is a a  Our sorting algorithm readme
+This   Our sorting algorithm readme
